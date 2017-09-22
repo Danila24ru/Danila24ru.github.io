@@ -1,6 +1,8 @@
 {
 "TOTAL_MEMORY": 268435456,
 "dataUrl": "BuildHTML5.data.unityweb",
+"wasmCodeUrl": "BuildHTML5.wasm.code.unityweb",
+"wasmFrameworkUrl": "BuildHTML5.wasm.framework.unityweb",
 "asmCodeUrl": "BuildHTML5.asm.code.unityweb",
 "asmMemoryUrl": "BuildHTML5.asm.memory.unityweb",
 "asmFrameworkUrl": "BuildHTML5.asm.framework.unityweb",
